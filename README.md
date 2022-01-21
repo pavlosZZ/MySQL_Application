@@ -1,4 +1,4 @@
-# SchoolAPI
+# MySQL_Application
 ### A Backend Application using Spring Boot. It is connected with a MySQL Database. 
 #
 Requirements: Java 11, MySQL Workbench & Maven.
