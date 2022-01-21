@@ -4,6 +4,7 @@
 Requirements: Java 11, MySQL Workbench & Maven.
 
 First, create a *Schema* in ````MySQL Workbench```` and name it *School*.
+#
 
 Then, find the SchoolApplication.class from the path ````src/main/java/com/spring/school```` ,
 
