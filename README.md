@@ -1,9 +1,11 @@
 # SchoolAPI
 ### A Backend Application using Spring Boot. It is connected with a MySQL Database. 
 #
-Requirements: Java 11 & Maven.
+Requirements: Java 11, MySQL Workbench & Maven.
 
-Find the SchoolApplication.class from the path ````src/main/java/com/spring/school```` ,
+First, create a *Schema* in ````MySQL Workbench```` and name it *School*.
+
+Then, find the SchoolApplication.class from the path ````src/main/java/com/spring/school```` ,
 
 and run it as ````Java Application```` .
 
@@ -15,7 +17,5 @@ Runs on:
 ### Unit tests for services and controllers of the application, using JUnit 5.
 #
 
-After you run the SchoolApplication.class for the first time, find and run as JUnit Test the ````src/test/java```` folder to run all the tests together, 
-
-or run every test in this folder separately.
+After you run the SchoolApplication.class for the first time, find and run as JUnit Test the ````src/test/java```` folder to run all the tests together, or run every test in this folder separately.
 
